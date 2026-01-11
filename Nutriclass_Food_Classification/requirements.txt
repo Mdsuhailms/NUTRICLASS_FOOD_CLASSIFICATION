@@ -1,0 +1,10 @@
+# Necessary Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# preprocessing libraries and Evaluation metrics and Models
+scipy
+scikit-learn 
+xgboost
